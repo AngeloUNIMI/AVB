@@ -1,0 +1,30 @@
+Image 1: 01b5dc70-399a-4a96-aeaf-8145ea29fa9a.jpeg
+		Label: abnormal
+		Label (subtypes): abnormal_3
+Image 2: 639947a9-5d78-49c9-a39e-09eaedec6d42.jpeg
+		Label: normal
+		Label (subtypes): normal_6
+Image 3: 7dc1a482-29d1-4e2e-8495-8644cafc3d44.jpeg
+		Label: normal
+		Label (subtypes): normal_7
+Image 4: 9b54f6af-0ef8-4911-94f9-c15491e23ab0.jpeg
+		Label: abnormal
+		Label (subtypes): abnormal_3
+Image 5: d1fc69d9-049c-4af4-a793-25cb7131c21f.jpeg
+		Label: normal
+		Label (subtypes): normal_7
+Image 6: d43d8bb6-0d89-4308-84b5-67d60baa1457.jpeg
+		Label: normal
+		Label (subtypes): normal_5
+Image 7: ec81c055-eedf-440f-aaf3-dd1d9e77a422.jpeg
+		Label: abnormal
+		Label (subtypes): abnormal_2
+Image 8: f25b80de-2617-49bf-b86f-e87a8458ad93.jpeg
+		Label: normal
+		Label (subtypes): normal_6
+Avg time cluster: 3.983214020729065
+Avg time feature extraction: 0.15996962785720825
+Avg time classification: 0.10397493839263916
+
+Accuracy (%): 87.5
+Accuracy (subtypes) (%): 62.5

@@ -58,16 +58,6 @@ graph LR
 
 ---
 
-## 🖼️ Example Images
-
-<div align="center">
-  <img src="imgs/01b5dc70-399a-4a96-aeaf-8145ea29fa9a.jpeg" width="22%" />
-  <img src="imgs/639947a9-5d78-49c9-a39e-09eaedec6d42.jpeg" width="22%" />
-  <img src="imgs/7dc1a482-29d1-4e2e-8495-8644cafc3d44.jpeg" width="22%" />
-  <img src="imgs/9b54f6af-0ef8-4911-94f9-c15491e23ab0.jpeg" width="22%" />
-</div>
-
----
 
 ## 📁 Repository Structure
 
